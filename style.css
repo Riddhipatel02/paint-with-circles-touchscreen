@@ -1,0 +1,33 @@
+.body_background {
+    background-image: url("https://i.pinimg.com/originals/21/19/ae/2119ae00936dcc71d719f6215b2122d0.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: black; 
+      font-size: 40px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color:white;
+      border-style:double;
+      border-color:black;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  p{
+      font-size:20px;
+  }
+  span{
+    font-size:20px;
+}
+  
